@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/pete'
+let g:netrw_dirhist_2='/home/pete/Documents'
+let g:netrw_dirhist_3='/home/pete/Documents/clients/fanchants/www/templates'
+let g:netrw_dirhist_4='/home/pete/Documents/clients/fanchants/www'
+let g:netrw_dirhist_5='/home/pete/Documents/clients/fanchants/www/templates'
+let g:netrw_dirhist_6='/home/pete/Documents/clients/fanchants/www'
+let g:netrw_dirhist_7='/home/pete/Documents/clients/fanchants/www/templates'
